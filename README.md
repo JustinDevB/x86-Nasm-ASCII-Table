@@ -1,1 +1,1 @@
-# x86-Nasm-ASCII-Table
+# x86_64-Nasm-ASCII-Table
